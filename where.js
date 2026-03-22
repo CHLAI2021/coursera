@@ -1,0 +1,23 @@
+myData = [
+[22.99909895,120.21622951861194,' 📌 National Cheng Kung University <br> 🌡️  25.92 °C ,few clouds <br> 🕰️  2026-03-22 17:54:07 '],
+[24.1999283,120.6865121,' 📌 Taichung Intercontinental Baseball Stadium <br> 🌡️  24.71 °C ,scattered clouds <br> 🕰️  2026-03-22 17:54:08 '],
+[25.03383515,121.56449954739425,' 📌 Taipei 101,Taipei World Financial Center <br> 🌡️  22.44 °C ,broken clouds <br> 🕰️  2026-03-22 17:54:08 '],
+[34.073625500000006,-118.23984518809203,' 📌 Dodger Stadium <br> 🌡️  16.35 °C ,mist <br> 🕰️  2026-03-22 17:54:09 '],
+[43.641659849999996,-79.38919761915824,' 📌 Rogers Centre <br> 🌡️  1.88 °C ,broken clouds <br> 🕰️  2026-03-22 17:54:09 '],
+[35.6308162,139.88114516217843,' 📌 Tokyo Disney Resort <br> 🌡️  13.82 °C ,clear sky <br> 🕰️  2026-03-22 17:54:09 '],
+[38.8976387,-77.03655280696438,' 📌 The White House <br> 🌡️  9.94 °C ,scattered clouds <br> 🕰️  2026-03-22 17:54:10 '],
+[37.5957301,126.9751263,' 📌 Blue House,Cheongwadae <br> 🌡️  11.47 °C ,clear sky <br> 🕰️  2026-03-22 17:54:10 '],
+[44.6200885,-110.56068933143061,' 📌 Yellowstone National Park <br> 🌡️  2.95 °C ,few clouds <br> 🕰️  2026-03-22 17:54:10 '],
+[51.51378715,-0.09845055141832956,' 📌 St. Pauls Cathedral <br> 🌡️  7.73 °C ,broken clouds <br> 🕰️  2026-03-22 17:54:11 '],
+[41.9021569,12.453710520237173,' 📌 St. Peters Basilica <br> 🌡️  10.87 °C ,few clouds <br> 🕰️  2026-03-22 17:54:16 '],
+[37.8081325,-122.4165913,' 📌 Fishermans Wharf <br> 🌡️  11.11 °C ,clear sky <br> 🕰️  2026-03-22 17:54:17 '],
+[40.75855775,-73.97636406205616,' 📌 St. Patricks Cathedral <br> 🌡️  6.85 °C ,overcast clouds <br> 🕰️  2026-03-22 17:54:17 '],
+[48.85991785,2.3265849372230356,' 📌 Mus矇e dOrsay <br> 🌡️  10.63 °C ,clear sky <br> 🕰️  2026-03-22 17:54:17 '],
+[40.75088945,-73.98925506526803,' 📌 Macys Herald Square <br> 🌡️  6.85 °C ,overcast clouds <br> 🕰️  2026-03-22 17:54:18 '],
+[48.8582599,2.2945006358633115,' 📌 Eiffel Tower <br> 🌡️  10.6 °C ,clear sky <br> 🕰️  2026-03-22 17:54:18 '],
+[40.68928,-74.04455,' 📌 Statue of Liberty, New York <br> 🌡️  7.01 °C ,overcast clouds <br> 🕰️  2026-03-22 17:54:19 '],
+[-27.7085454,-53.1364113,' 📌 Sagrada Familia <br> 🌡️  22.9 °C ,overcast clouds <br> 🕰️  2026-03-22 17:54:19 '],
+[-33.85719805,151.21512338473752,' 📌 Sydney Opera House <br> 🌡️  23.06 °C ,few clouds <br> 🕰️  2026-03-22 17:54:19 '],
+[27.1750075,78.04210126365584,' 📌 Taj Mahal <br> 🌡️  29.67 °C ,broken clouds <br> 🕰️  2026-03-22 17:54:20 '],
+[51.5007042,-0.1245721,' 📌 Big Ben, London <br> 🌡️  7.84 °C ,broken clouds <br> 🕰️  2026-03-22 17:54:25 ']
+];
